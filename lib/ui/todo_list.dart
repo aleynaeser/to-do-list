@@ -173,7 +173,7 @@ class _TodoListState extends State<TodoList> {
         child: new Text(
       todo.note,
       style: new TextStyle(
-          color: Colors.black54,
+          color: Colors.black,
           fontSize: 16.0,
           decoration:
               todo.done ? TextDecoration.lineThrough : TextDecoration.none),
