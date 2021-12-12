@@ -1,6 +1,6 @@
 # To Do List App
 
-It is a basic flutter app for to do list written in Flutter.
+It is a to do list app written in Flutter.
 
 <h4 align="center">
 1. Home Screen
